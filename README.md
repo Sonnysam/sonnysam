@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **React Native and more React stuffs together with some backend technologies**
 
 - 👯 I’m looking to collaborate on **any web or mobile project**
-- 
 
 - 🤝 I’m looking for help with **backend**
 
