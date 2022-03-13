@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">A passionate developer from Ghana. I'm also the CEO of Sonnytech</h3>
+<h3 align="center">A passionate developer and youtuber from Ghana. I'm also the CEO of Sonnytech</h3>
+<h3>Check out my <a href="https://www.youtube.com/c/SonnyTechAcademy">YouTube Channel. </a> Don't forget to subscribe, like, comment and share </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnysam&label=Profile%20views&color=0e75b6&style=flat" alt="sonnysam" /> </p>
 
@@ -8,24 +9,24 @@
 <p align="left"> <a href="https://twitter.com/agbenyoofficial" target="blank"><img src="https://img.shields.io/twitter/follow/agbenyoofficial?logo=twitter&style=for-the-badge" alt="agbenyoofficial" /></a> </p>
 
  <a href=""><img src="https://ouch-cdn2.icons8.com/791yY8EXSOxMZ83e85bFF4MrQSXcKSsdahFLiG2YW7o/rs:fit:256:689/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTg1/LzdiZjc4NThjLWY2/MzItNGRlMC05MGU3/LWI3Zjc0YWU4Zjcz/Mi5wbmc.png" align="right"><a/>
-- 🔭 I’m currently working on **A School Management System**
+- 🔭 I’m currently working on **A School Management System and a MTN MoMo App Clone**
 
-- 🌱 I’m currently learning **React Native and more React**
+- 🌱 I’m currently learning **React Native and more React stuffs together with some backend technologies**
 
-- 👯 I’m looking to collaborate on **A MTN MoMo App Clone**
+- 👯 I’m looking to collaborate on **any web or mobile project**
 - 
 
-- 🤝 I’m looking for help with **A MTN MoMo App Clone**
+- 🤝 I’m looking for help with **backend**
 
 - 👨‍💻 All of my projects are available at [samuel-agbenyo.netlify.app](samuel-agbenyo.netlify.app)
 
-- 💬 Ask me about **Frontend Technologies**
+- 💬 Ask me about **Any popular Frontend Technology**
 
 - 📫 How to reach me **samuelagbenyo067@gmail.com**
 
 - 📄 Know about my experiences [sonnytech.netlify.app](sonnytech.netlify.app)
 
-- ⚡ Fun fact **I love to play Fifa**
+- ⚡ Fun fact **I love to play Fifa and football**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -56,7 +57,6 @@
   &nbsp;
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonnysam&show_icons=true&locale=en" alt="sonnysam" /></p>
-  <br>
-  <br>
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonnysam&" alt="sonnysam" /></p>
