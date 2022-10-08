@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/agbenyoofficial" target="blank"><img src="https://img.shields.io/twitter/follow/agbenyoofficial?logo=twitter&style=for-the-badge" alt="agbenyoofficial" /></a> </p>
 
 
-- 🔭 I’m currently working on **A School Management System and a MTN MoMo App Clone**
+- 🔭 I’m currently working on **A School Management System and the MTN MoMo App Clone**
 
 - 🌱 I’m currently learning **React Native and more React stuffs together with some backend technologies**
 
@@ -27,6 +27,9 @@
 
 - ⚡ Fun fact **I love to play Fifa and football**
 
+## Sonnytech Academy
+
+[![SonnyTech Academy youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCcAqua_sII1V9W6bbhxjb6A&theme=dark)]([https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw](https://www.youtube.com/channel/UCcAqua_sII1V9W6bbhxjb6A))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
