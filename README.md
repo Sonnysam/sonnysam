@@ -9,19 +9,17 @@
 <p align="left"> <a href="https://twitter.com/agbenyoofficial" target="blank"><img src="https://img.shields.io/twitter/follow/agbenyoofficial?logo=twitter&style=for-the-badge" alt="agbenyoofficial" /></a> </p>
 
 
-- 🔭 I’m currently working on **A School Management System and the MTN MoMo App Clone**
+- 🔭 I’m currently working on **some personal projects :)**
 
-- 🌱 I’m currently learning **React Native and more React stuffs together with some backend technologies**
+- 🌱 I’m currently learning **React Native and more React stuffs together with some backend technologies :)**
 
-- 👯 I’m looking to collaborate on **any web or mobile project**
-
-- 🤝 I’m looking for help with **backend**
+- 👯 I’m looking to collaborate on **any web or mobile project** 🤝
 
 - 💬 Ask me about **Any popular Frontend Technology**
 
 - 📫 How to reach me **samuelagbenyo067@gmail.com**
 
-- 📄  Check out Sonnytech Academy's Website  [sonnytech-academy.vercel.app/](sonnytech-academy.vercel.app/)
+- 📄  Check out Sonnytech Academy's website  [sonnytech-academy.vercel.app/](sonnytech-academy.vercel.app/)
 
 - ⚡ Fun fact **I love to play Fifa and football**
 
