@@ -17,13 +17,11 @@
 
 - 🤝 I’m looking for help with **backend**
 
-- 👨‍💻 Some of my projects are available at [samuel-agbenyo.netlify.app](samuel-agbenyo.netlify.app)
-
 - 💬 Ask me about **Any popular Frontend Technology**
 
 - 📫 How to reach me **samuelagbenyo067@gmail.com**
 
-- 📄  Check out Sonnytech Academy's Website  [sonnytech.netlify.app](sonnytech.netlify.app)
+- 📄  Check out Sonnytech Academy's Website  [sonnytech-academy.vercel.app/](sonnytech-academy.vercel.app/)
 
 - ⚡ Fun fact **I love to play Fifa and football**
 
