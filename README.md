@@ -9,21 +9,19 @@
 <p align="left"> <a href="https://twitter.com/agbenyoofficial" target="blank"><img src="https://img.shields.io/twitter/follow/agbenyoofficial?logo=twitter&style=for-the-badge" alt="agbenyoofficial" /></a> </p>
 
 
-- 🔭 I’m currently working on **some personal projects :)**
+- 🔭 I’m currently working on **some personal projects** 😎
 
-- 🌱 I’m currently learning **React Native and more React stuffs together with some backend technologies :)**
+- 🌱 I’m still learning **more react native and more react stuffs together with some backend technologies** 😎
 
-- 👯 I’m looking to collaborate on **any web or mobile project** 🤝
+- 👯 I’m looking to collaborate 🤝 on **any web or mobile project**  Just send me a mail via 👇👇
 
-- 💬 Ask me about **Any popular Frontend Technology**
-
-- 📫 How to reach me **samuelagbenyo067@gmail.com**
+- 📫 How to reach me: **samuelagbenyo067@gmail.com**
 
 - 📄  Check out Sonnytech Academy's website  [sonnytech-academy.vercel.app/](sonnytech-academy.vercel.app/)
 
-- ⚡ Fun fact **I love to play Fifa and football**
+- ⚡ Fun fact **I love to play Fifa 🎮 and football ⚽** 
 
-## Sonnytech Academy
+## Sonnytech Academy 🚀
 
 [![SonnyTech Academy youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCcAqua_sII1V9W6bbhxjb6A&theme=dark)]([https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw](https://www.youtube.com/channel/UCcAqua_sII1V9W6bbhxjb6A))
 
