@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">A passionate developer and youtuber from Ghana</h3>
+<h3 align="center">A passionate developer and youtuber from Ghana 🇬🇭</h3>
 <h3>Check out my <a href="https://www.youtube.com/c/SonnyTechAcademy">YouTube Channel. </a> Don't forget to subscribe, like, comment and share </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnysam&label=Profile%20views&color=0e75b6&style=flat" alt="sonnysam" /> </p>
