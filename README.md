@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact, **I love to play Fifa 🎮 and football ⚽** 
 
+- 🤖 Check out Sonnybot https://sonny-bot.vercel.app
+
 ## Sonnytech Academy 🚀
 
 [![SonnyTech Academy youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCcAqua_sII1V9W6bbhxjb6A&theme=dark)]([https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw](https://www.youtube.com/channel/UCcAqua_sII1V9W6bbhxjb6A))
