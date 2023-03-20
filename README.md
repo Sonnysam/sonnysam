@@ -9,11 +9,13 @@
 <p align="left"> <a href="https://twitter.com/agbenyoofficial" target="blank"><img src="https://img.shields.io/twitter/follow/agbenyoofficial?logo=twitter&style=for-the-badge" alt="agbenyoofficial" /></a> </p>
 
 
-- 🔭 I’m currently working on **some personal projects** 😎
+- 🔭 I’m currently working on **some research work & my final year project** 😎
 
-- 🌱 I’m still learning **more react native and more react stuffs together with some backend technologies** 😎
+- 🌱 I’m still learning **more react native & react stuff together with some backend technologies** 😎
 
-- 👯 I’m looking to collaborate 🤝 on **any web or mobile project**  Just send me a mail via 👇👇
+- 👯 I’m looking to collaborate 🤝 on **any web or mobile project**  
+
+- Just send me a mail via 👇👇
 
 - 📫 How to reach me: **samuelagbenyo067@gmail.com**
 
