@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact, **I love to play Fifa 🎮 and football ⚽** 
 
-- 🤖 Check out Sonnybot https://sonny-bot.vercel.app
 
 ## Sonnytech Academy 🚀
 
