@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">A developer and a tech content creator from Ghana 🇬🇭</h3>
+<h3 align="center">A software engineer and a tech content creator from Ghana 🇬🇭</h3>
 <h3>Check out my <a href="https://www.youtube.com/c/SonnyTechAcademy">YouTube Channel. </a> Don't forget to subscribe, like, comment and share 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnysam&label=Profile%20views&color=0e75b6&style=flat" alt="sonnysam" /> </p>
@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on research work & my final year project 🔬🧑‍💻
 
-- 🌱 I’m still learning **more react native & react stuff together with some backend technologies** 😎
-
-- 👯 I’m looking to collaborate 🤝 on **any web or mobile project**  
+- 👯 I’m looking to collaborate 🤝 on **any web, mobile or open source project**  
 
 - Just send me a mail via 👇👇
 
