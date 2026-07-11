@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">A software engineer and a tech content creator from Ghana 🇬🇭</h3>
+<h3 align="center">A software engineer from Ghana 🇬🇭</h3>
 <h3>Check out my <a href="https://www.youtube.com/c/SonnyTechAcademy">YouTube Channel. </a> Don't forget to subscribe, like, comment and share 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonnysam&label=Profile%20views&color=0e75b6&style=flat" alt="sonnysam" /> </p>
@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/agbenyoofficial" target="blank"><img src="https://img.shields.io/twitter/follow/agbenyoofficial?logo=twitter&style=for-the-badge" alt="agbenyoofficial" /></a> </p>
 
 
-- 🔭 I’m currently working on research work & my final year project 🔬🧑‍💻
+- 🔭 I’m still exploring cool app ideas to build
 
 - 👯 I’m looking to collaborate 🤝 on **any web, mobile or open source project**  
 
@@ -17,9 +17,9 @@
 
 - 📫 How to reach me: **samuelagbenyo067@gmail.com**
 
-- 📄  Check out Sonnytech Academy's website  [sonnytech-academy.vercel.app/](sonnytech-academy.vercel.app/)
+- 📄  Check out my website  [samuelagbenyo.com](samuelagbenyo.com)
 
-- ⚡ Fun fact, **I love to play Fifa 🎮 and football ⚽** 
+- ⚡ Fun fact, **I love to photography 📸 and football ⚽** 
 
 
 ## Sonnytech Academy 🚀
