@@ -10,4 +10,4 @@ I teach JavaScript and React Native on [SonnyTech Academy](https://www.youtube.c
 
 Currently building at [WeWire](https://wewire.com). Community lead of [Expo Ghana](https://expo-ghana.vercel.app).
 
-[samuelagbenyo.com](https://samuelagbenyo.com) · [Email](mailto:samuelagbenyo067@gmail.com) · [YouTube](https://www.youtube.com/c/SonnyTechAcademy) · [X](https://twitter.com/agbenyoofficial)
+[Email](mailto:samuelagbenyo067@gmail.com) · [X](https://twitter.com/agbenyoofficial)
